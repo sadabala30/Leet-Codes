@@ -1,4 +1,4 @@
-<h1 align="center">Jyothi Priya</h1>
+<h1 align="center">Jyothi Adabala</h1>
 <h3 align="center">MS CS | Python Problem Solver | Future Software Engineer</h3>
 
 ---
