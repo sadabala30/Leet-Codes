@@ -1,0 +1,27 @@
+class Solution:
+    def maxArea(self, height: list[int]) -> int:
+        # l = left pointer (starts at index 0)
+        # r = right pointer (starts at the last index)
+        l, r = 0, len(height) - 1
+        max_water = 0
+        
+        while l < r:
+            # 1. Calculate the width (distance between indices)
+            width = r - l
+            
+            # 2. Calculate the height (limited by the shorter bar)
+            h = min(height[l], height[r])
+            
+            # 3. Calculate current water and update the record if it's the most seen
+            current_water = width * h
+            if current_water > max_water:
+                max_water = current_water
+            
+            # 4. THE STRATEGY: Move the pointer pointing to the shorter bar
+            # We want to find a taller bar to potentially increase the area
+            if height[l] < height[r]:
+                l += 1
+            else:
+                r -= 1
+                
+        return max_water
