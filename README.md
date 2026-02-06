@@ -1,11 +1,13 @@
-<h1 align="center">Jyothi Adabala</h1>
-<h3 align="center">MS CS | Python Problem Solver | Future Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Jyothi Adabala</h1>
+<h3 align="center">MS Computer Science Student | Python Developer | Problem Solver</h3>
 
 ---
 
-## 💻 LeetCode Profile
+## 🚀 LeetCode Portfolio
 
-🔗 https://leetcode.com/u/asjgcodes/
+🔗 **Profile:** https://leetcode.com/u/asjgcodes/  
+💻 **Language Used:** Python3  
+🔥 **Total Problems Solved:** 39  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/asjgcodes?theme=dark&font=Baloo%202&ext=heatmap" />
@@ -13,10 +15,29 @@
 
 ---
 
-## 📊 Problem Solving Stats
+## 📊 Problem Solving Breakdown
 
-🧠 **Total Problems Solved:** 39  
-💻 **Primary Language:** Python 3  
+### 🧠 Advanced
+- Dynamic Programming ×2  
+- Monotonic Stack ×1  
+
+### ⚙️ Intermediate
+- Hash Table ×15  
+- Sliding Window ×4  
+- Math ×4  
+- Binary Search ×3  
+- Greedy ×2  
+- Recursion ×2  
+- Tree ×1  
+- Binary Tree ×1  
+
+### 🔰 Fundamental
+- Array ×20  
+- String ×16  
+- Two Pointers ×16  
+- Sorting ×7  
+- Linked List ×3  
+- Enumeration ×1  
 
 ---
 
@@ -38,78 +59,55 @@
 
 ---
 
-## 🧠 Pattern Mastery
+## 💡 Core Patterns I Practice
 
-### 🚀 Advanced
-- Dynamic Programming ×2  
-- Monotonic Stack ×1  
-
-### ⚡ Intermediate
-- Hash Table ×15  
-- Sliding Window ×4  
-- Math ×4  
-- Binary Search ×3  
-- Greedy ×2  
-- Recursion ×2  
-- Tree ×1  
-
-### 🔰 Fundamental
-- Array ×20  
-- String ×16  
-- Two Pointers ×16  
-- Sorting ×7  
-- Linked List ×3  
+✔ Two Pointers  
+✔ Sliding Window  
+✔ Hashing  
+✔ Binary Search  
+✔ Stack-based Problems  
+✔ Linked List Manipulation  
+✔ Dynamic Programming Foundations  
 
 ---
 
-## 💡 Problem Solving Approach
+## 🏆 Problem Solving Approach
 
-✔️ Analyze brute force first  
-✔️ Optimize time complexity  
-✔️ Reduce space where possible  
-✔️ Handle edge cases carefully  
-✔️ Refactor into clean Pythonic code  
-
----
-
-## 📈 Current Focus
-
-- Strengthening Dynamic Programming  
-- Graph & Tree mastery  
-- Advanced Sliding Window patterns  
-- Interview-level medium problems  
+- Analyze Time & Space Complexity  
+- Optimize brute force → optimal solution  
+- Handle edge cases carefully  
+- Write clean, readable Python code  
+- Practice consistency over motivation  
 
 ---
 
-## 🎯 2026 Target
+## 📈 2026 Coding Goals
 
-- 300+ problems solved  
-- Strong Medium & Hard consistency  
-- Interview-ready algorithmic thinking  
+🎯 Solve 300+ Problems  
+🎯 Master Dynamic Programming  
+🎯 Become Interview-Ready for SDE / Data Roles  
+🎯 Improve speed in Medium-level problems  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ```python
-Language: Python 3
-Core: Data Structures & Algorithms
-Database: SQL
-Tools: Git, GitHub
+Languages: Python | Java | SQL
+Frontend: HTML | CSS | Bootstrap
+Databases: MySQL | PostgreSQL
+Tools: Git | GitHub | VS Code
 ```
 
 ---
 
-## 🌟 Why LeetCode?
+## 📬 Connect With Me
 
-LeetCode helps me:
-- Build algorithmic thinking
-- Improve coding speed
-- Strengthen debugging ability
-- Prepare for technical interviews
-- Develop consistency & discipline
+📧 sadabala@rivier.edu  
+💼 (Add your LinkedIn link here)  
+💻 (Add your GitHub link here)
 
 ---
 
-📫 Email: sadabala@rivier.edu  
-💼 Open to Software Engineering & Data Engineering roles
+⭐ Consistency > Motivation  
+🚀 Building logic every single day.
